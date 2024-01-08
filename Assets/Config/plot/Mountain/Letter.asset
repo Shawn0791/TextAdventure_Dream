@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18babe0966456ad448a8c30597c38ae6, type: 3}
+  m_Name: Letter
+  m_EditorClassIdentifier: 
+  text: 'The last letter of Lisa
+
+
+    <size=75%>Lisa said she understood Oliver''s
+    pain of losing her mother, but she was in pain at the time and couldn''t comfort
+    the protagonist again. She said they had been depressed and miserable, but every
+    thought of the past with Oliver will ease a little. Finally chose to jump the
+    cliff is to be free, and did not blame Oliver.</size>'
+  optionLT: {fileID: 0}
+  optionRT: {fileID: 0}
+  optionLB: {fileID: 11400000, guid: a12036d52fcfeae41985bb0430c3b594, type: 2}
+  optionRB: {fileID: 0}
+  soundName: icon
+  locationName: 
+  color: 3

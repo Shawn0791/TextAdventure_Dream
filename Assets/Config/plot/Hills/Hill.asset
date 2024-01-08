@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18babe0966456ad448a8c30597c38ae6, type: 3}
+  m_Name: Hill
+  m_EditorClassIdentifier: 
+  text: 'There was a seriously injured <color=#7200AB>policeman</color> under the
+    hill.
+
+
+    A sniper <color=#AB0000>gun</color> at the hands of the police'
+  optionLT: {fileID: 0}
+  optionRT: {fileID: 0}
+  optionLB: {fileID: 11400000, guid: af0be7f2070d5074ea91bd18fe4e23fc, type: 2}
+  optionRB: {fileID: 11400000, guid: 0720a8935ab95ab4c8a8abec043307c8, type: 2}
+  soundName: 
+  locationName: 
+  color: 0

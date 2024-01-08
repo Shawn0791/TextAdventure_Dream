@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18babe0966456ad448a8c30597c38ae6, type: 3}
+  m_Name: Memory 8
+  m_EditorClassIdentifier: 
+  text: Under the affect of <color=#7200AB><i>Special Psychedelics</i></color>, Oliver
+    only have very few memories. Oliver began to explore the dream, constantly retrieve
+    the lost memory, and try to figure out what's going on.
+  optionLT: {fileID: 11400000, guid: dcc7caa59e0a5d7498bc746b37422da0, type: 2}
+  optionRT: {fileID: 11400000, guid: 092961523b4a6c246988103d838706c5, type: 2}
+  optionLB: {fileID: 0}
+  optionRB: {fileID: 11400000, guid: 847d9474c82ecb34097cccc4d74a1ebe, type: 2}
+  soundName: breathe
+  locationName: 
+  color: 0

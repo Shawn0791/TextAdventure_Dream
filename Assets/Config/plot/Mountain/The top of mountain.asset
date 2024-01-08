@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18babe0966456ad448a8c30597c38ae6, type: 3}
+  m_Name: The top of mountain
+  m_EditorClassIdentifier: 
+  text: 'Oliver climbed to the top of the mountain and stood on top of the clouds
+
+
+    There
+    is a tomb at the top of the mountain'
+  optionLT: {fileID: 0}
+  optionRT: {fileID: 0}
+  optionLB: {fileID: 11400000, guid: a12036d52fcfeae41985bb0430c3b594, type: 2}
+  optionRB: {fileID: 11400000, guid: fc92cbb77e8af8a408cefb71b725f3d6, type: 2}
+  soundName: 
+  locationName: 
+  color: 0

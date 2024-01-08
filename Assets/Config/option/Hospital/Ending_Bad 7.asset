@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92cfcc4db8ebb284cbb051ac2655eb2d, type: 3}
+  m_Name: Ending_Bad 7
+  m_EditorClassIdentifier: 
+  text: Smash him
+  targetPlot: {fileID: 11400000, guid: 60e884bf9ecbe304a8d7c1dd23c4e801, type: 2}
+  itemId: Depressed
+  color: 2
+  vfx: 1
+  timerFeedback: 0
+  timerFeedbackValue: 0
+  score: 0
+  needItems: []

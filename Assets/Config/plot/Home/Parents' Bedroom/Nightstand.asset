@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18babe0966456ad448a8c30597c38ae6, type: 3}
+  m_Name: Nightstand
+  m_EditorClassIdentifier: 
+  text: 'Brown bedside tables, which have been used for many years
+
+
+    There was
+    a drawer underneath that looked locked'
+  optionLT: {fileID: 0}
+  optionRT: {fileID: 0}
+  optionLB: {fileID: 11400000, guid: 82f03d0f4202b6840b32546600e7f845, type: 2}
+  optionRB: {fileID: 11400000, guid: 6c705c53182d5bc409fea4d713f728d3, type: 2}
+  soundName: 
+  locationName: 
+  color: 0

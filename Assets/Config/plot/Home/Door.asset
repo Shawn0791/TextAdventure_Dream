@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18babe0966456ad448a8c30597c38ae6, type: 3}
+  m_Name: Door
+  m_EditorClassIdentifier: 
+  text: <size=200%>This is Oliver's Home.</size>
+  optionLT: {fileID: 0}
+  optionRT: {fileID: 11400000, guid: 9d849ac850172dc4e91f5409ab4eb56e, type: 2}
+  optionLB: {fileID: 11400000, guid: f6fabd86941dd334aacc91d0c3b9647f, type: 2}
+  optionRB: {fileID: 11400000, guid: 0566d37047c1b1b469309ea9f82e9084, type: 2}
+  soundName: opendoor
+  locationName: 
+  color: 1

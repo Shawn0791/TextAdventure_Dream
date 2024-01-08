@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18babe0966456ad448a8c30597c38ae6, type: 3}
+  m_Name: Memory 6
+  m_EditorClassIdentifier: 
+  text: <color=#7200AB><i>Special Psychedelics</i></color> is a product in research
+    and development. Oliver signed an agreement, this is a clinical trial.
+  optionLT: {fileID: 0}
+  optionRT: {fileID: 0}
+  optionLB: {fileID: 0}
+  optionRB: {fileID: 11400000, guid: eed428522ba71194885435bb01a0827c, type: 2}
+  soundName: 
+  locationName: 
+  color: 0

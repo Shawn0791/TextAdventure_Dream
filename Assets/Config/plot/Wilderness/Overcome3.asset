@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18babe0966456ad448a8c30597c38ae6, type: 3}
+  m_Name: Overcome3
+  m_EditorClassIdentifier: 
+  text: 'Oliver remembered materialistic knowledge
+
+    <color=#7200AB>Ghost doesn''t
+    exist !</color>
+
+
+    Then Oliver saw the zombie slowly disappear'
+  optionLT: {fileID: 0}
+  optionRT: {fileID: 0}
+  optionLB: {fileID: 0}
+  optionRB: {fileID: 11400000, guid: e8fd20fd02c3556488f8208200fb89d6, type: 2}
+  soundName: heartbeat
+  locationName: 
+  color: 3

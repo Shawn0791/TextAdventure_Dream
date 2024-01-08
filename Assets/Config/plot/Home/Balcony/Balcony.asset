@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18babe0966456ad448a8c30597c38ae6, type: 3}
+  m_Name: Balcony
+  m_EditorClassIdentifier: 
+  text: 'The balcony is small
+
+
+    Only a <color=#7200AB>washing machine</color>
+    and some sundries'
+  optionLT: {fileID: 0}
+  optionRT: {fileID: 0}
+  optionLB: {fileID: 11400000, guid: 73fef5e1bf6bdbe46a775e284561690f, type: 2}
+  optionRB: {fileID: 11400000, guid: c8330f26c13c11440a02613ea9be850f, type: 2}
+  soundName: 
+  locationName: 
+  color: 1

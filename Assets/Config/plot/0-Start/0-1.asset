@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18babe0966456ad448a8c30597c38ae6, type: 3}
+  m_Name: 0-1
+  m_EditorClassIdentifier: 
+  text: 'Oliver is <color=#AB0000>dying</color>.
+
+
+    This is his <color=#7200AB>dream</color>.'
+  optionLT: {fileID: 0}
+  optionRT: {fileID: 11400000, guid: 3ceef0570ffbf714587313a34668290f, type: 2}
+  optionLB: {fileID: 0}
+  optionRB: {fileID: 11400000, guid: e115aeee9dd40d84897354f8ed93b38e, type: 2}
+  soundName: 
+  locationName: 
+  color: 0

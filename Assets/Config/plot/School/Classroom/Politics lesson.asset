@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18babe0966456ad448a8c30597c38ae6, type: 3}
+  m_Name: Politics lesson
+  m_EditorClassIdentifier: 
+  text: The teacher is teaching "materialism"
+  optionLT: {fileID: 0}
+  optionRT: {fileID: 0}
+  optionLB: {fileID: 11400000, guid: 844e2f24f64363e409a7870c811be346, type: 2}
+  optionRB: {fileID: 11400000, guid: f559b287e54a7354584ac3ce9b95f1d4, type: 2}
+  soundName: 
+  locationName: 
+  color: 0

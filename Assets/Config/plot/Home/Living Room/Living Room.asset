@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18babe0966456ad448a8c30597c38ae6, type: 3}
+  m_Name: Living Room
+  m_EditorClassIdentifier: 
+  text: 'Very quiet in the living room with the lights all turned off
+
+
+    There
+    is a picture frame on the coffee table'
+  optionLT: {fileID: 11400000, guid: 7692cf10e4abc16458a4c86dcbc4520d, type: 2}
+  optionRT: {fileID: 11400000, guid: 549aedaa1c175c14eb49a2deba435230, type: 2}
+  optionLB: {fileID: 11400000, guid: 73fef5e1bf6bdbe46a775e284561690f, type: 2}
+  optionRB: {fileID: 11400000, guid: 6e1219e87ff40a9418e584156dc90a5a, type: 2}
+  soundName: 
+  locationName: 
+  color: 1

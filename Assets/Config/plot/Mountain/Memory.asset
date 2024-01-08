@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18babe0966456ad448a8c30597c38ae6, type: 3}
+  m_Name: Memory
+  m_EditorClassIdentifier: 
+  text: "You suddenly <color=#7200AB>remember</color>\n\n<size=75%>Lisa's mother
+    was very ill, and she came to the protagonist hoping for comfort, but by then
+    Oliver's mother had just died.Oliver quivered: At least your mother is still
+    there, my mother is gone! Lisa and Oliver never met again when Lisa's mother
+    died\r\nA few months later Oliver heard that Lisa had committed suicide\r</size>"
+  optionLT: {fileID: 0}
+  optionRT: {fileID: 0}
+  optionLB: {fileID: 0}
+  optionRB: {fileID: 11400000, guid: 6b4ace267b336af4b9a5db137ddc1380, type: 2}
+  soundName: heartbeat
+  locationName: 
+  color: 0
